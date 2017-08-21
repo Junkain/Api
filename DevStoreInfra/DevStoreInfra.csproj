@@ -50,7 +50,6 @@
     <Compile Include="DataContexts\DevStoreDataContext.cs" />
     <Compile Include="DataContexts\Mappings\CategoryMaps.cs" />
     <Compile Include="DataContexts\Mappings\ProductMap.cs" />
-    <Compile Include="DataContexts\ProductMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
